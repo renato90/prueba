@@ -1,0 +1,12 @@
+.caja{
+	padding: 5px;
+	height:140px;
+	width: 220px;
+	float:left;
+}
+.content{
+	background: #747B7C;
+}
+.image > img{
+	height: 85px;
+}
